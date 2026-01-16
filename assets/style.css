@@ -37,7 +37,7 @@ nav li {
 
 nav a {
 	text-decoration: none;
-	color: #000
+	color: #000;
 }
 
 .social-link img {
@@ -75,7 +75,7 @@ nav a {
 }
 
 #about-me {
-	flex: 2
+	flex: 2;
 }
 
 .about-me__title {
@@ -118,7 +118,8 @@ nav a {
 }
 
 .nav-pills .nav-link {
-	color: #000
+	color: #000;
+	cursor: pointer;
 }
 
 .item-column {
@@ -173,7 +174,7 @@ nav a {
 
 #services {
 	margin: auto;
-	background-color: #A8D5D8 ;
+	background-color: #A8D5D8;
 	position: relative;
 }
 
@@ -208,7 +209,7 @@ nav a {
 
 #contact {
 	margin: auto;
-	background-color: #D8D3A8 ;
+	background-color: #D8D3A8;
 	position: relative;
 	padding-inline: 100px;
 	padding-block: 100px;
@@ -260,7 +261,7 @@ form textarea {
 
 input[type="submit"] {
 	background-color: #BEB45A;
-	padding: .5em 1em
+	padding: .5em 1em;
 }
 
 .visually-hidden {
@@ -318,7 +319,7 @@ input[type="submit"] {
 		width: 100%;
 		max-width: 100%;
 		height: auto;
-		margin: 2em 0
+		margin: 2em 0;
 	}
 
 	.service__description{
