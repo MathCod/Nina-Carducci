@@ -91,6 +91,12 @@ nav a {
 	width: 60%;
 }
 
+/* Force les mots-clés SEO à rester en italique */
+.about-me__introduction strong {
+    font-style: italic;
+    color: inherit; /* Garde la même couleur */
+}
+
 #about-me p {
 	width: 80%;
 	font-size: 14px;
